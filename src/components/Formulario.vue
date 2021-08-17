@@ -7,6 +7,7 @@
           type="text"
           placeholder="Qual tarefa você deseja iniciar?"
           v-model="descricao"
+          data-test-id="inputNomeTarefa"
         />
       </div>
       <div class="column">
