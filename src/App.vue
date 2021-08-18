@@ -68,4 +68,8 @@ main.modo-escuro {
 .conteudo {
   background-color: var(--bg-primario);
 }
+h1 {
+  color: #fff;
+  font-size: 2em;
+}
 </style>
